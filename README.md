@@ -26,27 +26,14 @@ This repository contains the source code for an interactive 3D coffee simulator 
 # Preview
 
 <p align="center">
-  <img src="Previews/completed_coffee_example.png" alt="Completed Coffee Example" width="600"/>
-  <br>
-  <em>Completed coffee customization example.</em>
+  <img src="Previews/completed_coffee_example.png" alt="Completed Coffee Example" width="225"/>
+  <img src="Previews/iced_coffee_top_view.png" alt="Iced Coffee Top View" width="225"/>
+  <img src="Previews/milk_pour_animation.png" alt="Milk Pour Animation" width="225"/>
+  <img src="Previews/whipped_cream_animation.png" alt="Whipped Cream Animation" width="225"/>
 </p>
 
 <p align="center">
-  <img src="Previews/iced_coffee_top_view.png" alt="Iced Coffee Top View" width="600"/>
-  <br>
-  <em>Top-down view of iced coffee with straw selection.</em>
-</p>
-
-<p align="center">
-  <img src="Previews/milk_pour_animation.png" alt="Milk Pour Animation" width="600"/>
-  <br>
-  <em>Animation of milk being poured into the coffee.</em>
-</p>
-
-<p align="center">
-  <img src="Previews/whipped_cream_animation.png" alt="Whipped Cream Animation" width="600"/>
-  <br>
-  <em>Animation of whipped cream being added to the coffee.</em>
+  <em>From left to right: completed coffee, iced coffee top view, milk pour animation, whipped cream animation.</em>
 </p>
 
 # Scripts
