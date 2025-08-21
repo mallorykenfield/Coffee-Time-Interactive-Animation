@@ -15,13 +15,13 @@ This repository contains the source code for an interactive 3D coffee simulator 
 
 # Features
 
-Drink Customization: Choose coffee type, mug, and additives.
-
-Graphics Techniques: Implements lighting, shadow mapping, and texture mapping.
-
-Camera Controls: Switch between top and front views interactively.
-
-Procedural Animation: Milk pouring, whipped cream placement, and marshmallow floating.
+  - Drink Customization: Choose coffee type, mug, and additives.
+  
+  - Graphics Techniques: Implements lighting, shadow mapping, and texture mapping.
+  
+  - Camera Controls: Switch between top and front views interactively.
+  
+  - Procedural Animation: Milk pouring, whipped cream placement, and marshmallow floating.
 
 # Preview
 
@@ -29,31 +29,31 @@ Procedural Animation: Milk pouring, whipped cream placement, and marshmallow flo
 # Scripts
 1) index.html
 
-  Purpose: Main entry point for running the simulator. Loads TinyGraphics and project scripts, then launches the 3D scene in the browser.
-
-  Output: Opens the interactive coffee simulator directly in a WebGL-compatible browser.
+    Purpose: Main entry point for running the simulator. Loads TinyGraphics and project scripts, then launches the 3D scene in the browser.
+  
+    Output: Opens the interactive coffee simulator directly in a WebGL-compatible browser.
 
 2) main-scene.js
 
-  Purpose: Core implementation of the simulator’s scene. Defines objects, animations, and controls.
-
-  Key Features:
-
-  - Initializes camera controls
-
-  - Manages scene objects such as coffee, mugs, and additives.
-
-  - Implements dynamic lighting, shadow mapping, and texture effects.
-
-  - Contains procedural animations for milk pouring and topping placement.
-
-  Output: Renders an interactive 3D coffee scene with customizations and animations.
+    Purpose: Core implementation of the simulator’s scene. Defines objects, animations, and controls.
+  
+    Key Features:
+  
+      - Initializes camera controls
+  
+      - Manages scene objects such as coffee, mugs, and additives.
+    
+      - Implements dynamic lighting, shadow mapping, and texture effects.
+    
+      - Contains procedural animations for milk pouring and topping placement.
+  
+    Output: Renders an interactive 3D coffee scene with customizations and animations.
 
 3) Other Supporting Files
 
-  - Define custom shapes, materials, and textures.
-
-  - Handle object definitions for mugs, whipped cream, marshmallows, etc.
+    - Define custom shapes, materials, and textures.
+  
+    - Handle object definitions for mugs, whipped cream, marshmallows, etc.
 
 # Methods
 
@@ -61,13 +61,13 @@ Frameworks: WebGL with TinyGraphics library.
 
 Graphics Techniques:
 
-- Matrix transformations for positioning and animation.
-
-- Dynamic lighting and shadow mapping.
-
-- Texture mapping for realistic surface detail.
-
-- Procedural animation for beverage effects.
+  - Matrix transformations for positioning and animation.
+  
+  - Dynamic lighting and shadow mapping.
+  
+  - Texture mapping for realistic surface detail.
+  
+  - Procedural animation for beverage effects.
 
 
 # How to Run
