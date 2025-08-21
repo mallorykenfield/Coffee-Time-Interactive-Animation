@@ -13,7 +13,7 @@ This repository contains the source code for an interactive 3D coffee simulator 
   
   - Practice camera control and matrix transformations for multiple perspectives.
 
-#Features
+# Features
 
 Drink Customization: Choose coffee type, mug, and additives.
 
@@ -27,13 +27,13 @@ Procedural Animation: Milk pouring, whipped cream placement, and marshmallow flo
 
 
 # Scripts
-index.html
+1) index.html
 
   Purpose: Main entry point for running the simulator. Loads TinyGraphics and project scripts, then launches the 3D scene in the browser.
 
   Output: Opens the interactive coffee simulator directly in a WebGL-compatible browser.
 
-main-scene.js
+2) main-scene.js
 
   Purpose: Core implementation of the simulator’s scene. Defines objects, animations, and controls.
 
@@ -49,7 +49,7 @@ main-scene.js
 
   Output: Renders an interactive 3D coffee scene with customizations and animations.
 
-Supporting Files (not shown)
+3) Other Supporting Files
 
   - Define custom shapes, materials, and textures.
 
